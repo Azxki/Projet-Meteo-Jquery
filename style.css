@@ -5,6 +5,14 @@
     font-size: 100%;
 }
 
+.up {
+    font-size: 60%;
+}
+
+.up2 {
+    font-size: 10%;
+}
+
 #input {
     text-align: center;
     padding-bottom: 0.5rem;
@@ -34,7 +42,7 @@
 #ville {
     margin-top: 5rem;
     margin-left: 3rem;
-    font-size: 220%;
+    font-size: 160%;
 }
 
 #ville:first-letter {
@@ -42,7 +50,7 @@
 }
 
 #date {
-    font-size: 120%;
+    font-size: 130%;
     margin-top: 1rem;
     margin-left: 3rem;
 }
@@ -57,10 +65,10 @@
 
 #degres {
     margin-left: 75%;
-    font-size: 250%;
+    font-size: 180%;
 }
 
 #humidite {
     margin-left: 70%;
-    font-size: 250%;
+    font-size: 180%;
 }
